@@ -1,5 +1,31 @@
 # YGP
-YGP--You Get Paper,my winter holiday paper read notes.
+YGP--You Get Paper.
+
+
+
+## Plan
+
+- Holiday Plan
+    - Send to somebody
+
+- Paper
+    - Chinese
+    - English
+
+- Coding
+    - C++
+    - Python
+    - Algorithm
+    - Shell
+    - Go
+
+- Other
+    - Music
+    - Calligraphy
+    - Reading
+
+
+
 
 ## Read Table
 
@@ -8,6 +34,11 @@ YGP--You Get Paper,my winter holiday paper read notes.
 | ------ | -------- | ----- | ---- | ------- | ------- | ------ |
 | ------ | -------- | ----- | ---- | ------- | ------- | ------ |
 | ------ | -------- | ----- | ---- | ------- | ------- | ------ |
+
+
+
+
+
 
 
 ## Updates
