@@ -5,7 +5,7 @@ YGP--You Get Paper.
 
 ## Plan
 
-- Holiday Plan
+- [Holiday Plan](https://github.com/i0Ek3/YGP/blob/master/plan.md)
     - Send to somebody
 
 - Paper
