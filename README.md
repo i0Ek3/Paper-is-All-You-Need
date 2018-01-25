@@ -31,7 +31,8 @@ YGP--You Get Paper.
 
 | # | ReadTime | Title | Details | Belongs | Status |
 |---|----------|-------|---------|---------|--------|
-|001|2018-01-25|[一种面向工业物联网环境下后门隐私的泄露感知方法](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=5356&flag=1) | []() |软件学报|已读|
+|001|2018-01-25|[一种面向工业物联网环境下后门隐私的泄露感知方法](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=5356&flag=1) | [001](https://github.com/i0Ek3/YGP/blob/master/paper/details/001.md) |软件学报|已读|
+|002|2018-01-25|[]() | []() |软件学报|
 |002|2018-01-25|[]() | []() |软件学报| |
 |003|2018-01-25|[]() | []() |软件学报| |
 |004|2018-01-25|[]() | []() |软件学报| |
