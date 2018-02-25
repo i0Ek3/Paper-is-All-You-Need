@@ -23,18 +23,18 @@ YGP--You Get Paper.
 - [Holiday Plan](https://github.com/i0Ek3/YGP/blob/master/plan.md)
     - Send to somebody
 
-- Paper
+- Paper(not yet)
     - Chinese
     - English
 
 - Coding
-    - C++
-    - Python
-    - Algorithm
-    - Shell
-    - Go
+    - C++(finished few part of English version,maybe I need to read Chinese version better)
+    - Python(finished project3 without deploy,continue other projs)
+    - Algorithm(a little)
+    - Shell(enhanced structure part)
+    - Go(not yet)
 
-- Other
+- Other(not yet)
     - Music
     - Calligraphy
     - Reading
