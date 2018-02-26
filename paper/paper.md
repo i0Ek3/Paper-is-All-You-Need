@@ -22,6 +22,7 @@ Something about Paper
 - [Springer](https://link.springer.com/)
 - [Wiley Online Library](http://onlinelibrary.wiley.com/)
 
+- [鸠摩搜索](https://www.jiumodiary.com)
 - [Glgoo](https://scholar.glgoo.org/)
 - [百度学术](http://xueshu.baidu.com/)
 - [iDate](https://www.cn-ki.net/)
@@ -38,6 +39,3 @@ Something about Paper
 - [计算机工程与应用](http://cea.ceaj.org/CN/volumn/home.shtml)
 
 
-## Funny Link
-- [读思](http://read-think.com/)
-- []()
