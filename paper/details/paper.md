@@ -33,7 +33,7 @@ Something about Paper
 
 - [软件学报](http://www.jos.org.cn/ch/index.aspx)
 - [计算机应用](http://www.joca.cn/CN/volumn/home.shtml)
-- [电子学报](http://manu57.magtech.com.cn/Jwk_dzxb/CN/volumn/current.shtml)
+- ~[电子学报](http://manu57.magtech.com.cn/Jwk_dzxb/CN/volumn/current.shtml)~
 - [通信学报](http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml)
 - [计算机学报](http://cjc.ict.ac.cn/index.htm)
 - [计算机工程与应用](http://cea.ceaj.org/CN/volumn/home.shtml)
