@@ -14,7 +14,7 @@ YGP--You Get Paper.
 |006|2018-03-22|ref:[分布式一致性与共识算法](https://draveness.me/consensus) | [006](https://github.com/i0Ek3/YGP/blob/master/paper/details/006.md) |none|已读|
 |007|2018-03-25|ref:[区块链技术安全讨论](https://blockchain-sec.com/3/) | [007](https://github.com/i0Ek3/YGP/blob/master/paper/details/007.md) |none|已读|
 |008|2018-03-29|[中国区块链技术和应用发展白皮书2016](https://github.com/i0Ek3/YGP/blob/master/paper/readed/008.pdf) | [008](https://github.com/i0Ek3/YGP/blob/master/paper/details/008.md) |none|已读|
-|009|2018------|[]() | [009](https://github.com/i0Ek3/YGP/blob/master/paper/details/009.md) | |已读|
+|009|2018-04-09|重读[区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/)[pdf](https://github.com/i0Ek3/YGP/blob/master/paper/readed/009.pdf) | [009](https://github.com/i0Ek3/YGP/blob/master/paper/details/009.md) |[yeasy](https://github.com/yeasy)|已读|
 |010|2018------|[]() | [010](https://github.com/i0Ek3/YGP/blob/master/paper/details/010.md) | |已读|
 
 
