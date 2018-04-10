@@ -2,6 +2,12 @@
 YGP--You Get Paper.
 
 
+## Recommend Books
+- <<Writing Your Journal Article in Tweleve Weeks>> --by Wendy Laura Belcher
+- <<Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Sraring, Revising, and Finishing Your Doctoral Thesis>> --by Joan Bolker
+
+
+
 ## Read Table
 
 | # | ReadTime | Title | Details | Belongs | Status |
