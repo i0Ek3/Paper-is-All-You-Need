@@ -26,6 +26,7 @@ Something about Paper
 - [通信学报](http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml)
 - [计算机学报](http://cjc.ict.ac.cn/index.htm)
 - [计算机工程与应用](http://cea.ceaj.org/CN/volumn/home.shtml)
+- [自动化学报](http://www.aas.net.cn/CN/volumn/current.shtml)
 - [百度学术](http://xueshu.baidu.com/)
 
 
