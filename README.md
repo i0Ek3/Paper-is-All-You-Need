@@ -16,11 +16,11 @@ YGP--You Get Paper.
 |002|2018-01-30|[基于命名数据网络的区块链信息传输机制](http://www.infocomm-journal.com/txxb/CN/article/openArticlePDFabs.jsp?id=166912) |通信学报|已读|
 |003|2018-02-01|[基于区块链技术的高效跨域认证方案](https://github.com/i0Ek3/YGP/blob/master/paper/readed/003.pdf) |计算机应用|已读|
 |004|2018-03-12|[On the Security and Performance of Proof of Work Blockchains](https://github.com/i0Ek3/YGP/blob/master/paper/readed/004.pdf) |IEEE|已读|
-|005|2018-03-19|[比特币白皮书zh](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system)|[比特币白皮书en](https://github.com/i0Ek3/YGP/blob/master/paper/readed/005.pdf) |中本聪|已读|
+|005|2018-03-19|[比特币白皮书zh](http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system) [比特币白皮书en](https://github.com/i0Ek3/YGP/blob/master/paper/readed/005.pdf) |中本聪|已读|
 |006|2018-03-22|ref:[分布式一致性与共识算法](https://draveness.me/consensus) |none|已读|
 |007|2018-03-25|ref:[区块链技术安全讨论](https://blockchain-sec.com/3/) |none|已读|
 |008|2018-03-29|[中国区块链技术和应用发展白皮书2016](https://github.com/i0Ek3/YGP/blob/master/paper/readed/008.pdf) |none|已读|
-|009|2018-04-09|重读[区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/)|[pdf](https://github.com/i0Ek3/YGP/blob/master/paper/readed/009.pdf) |[yeasy](https://github.com/yeasy)|已读|
+|009|2018-04-09|重读[区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/) [pdf](https://github.com/i0Ek3/YGP/blob/master/paper/readed/009.pdf) |[yeasy](https://github.com/yeasy)|已读|
 |010|2018-04-11|[基于Gossip协议的拜占庭共识算法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/010.pdf) |计算机科学|已读|
 |011|2018-04-19|[基于区块链的网络空间安全技术](https://github.com/i0Ek3/YGP/blob/master/paper/readed/011.pdf) |电子技术与软件工程|已读|
 
