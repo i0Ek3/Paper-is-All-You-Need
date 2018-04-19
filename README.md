@@ -33,7 +33,6 @@ YGP--You Get Paper.
     - [官网zh](http://www.mathtype.cn)
 - [MircoVisio](https://products.office.com/en-us/visio/flowchart-software?tab=tabs-1)
 - [OMNET]()
-- []()
 
 
 
