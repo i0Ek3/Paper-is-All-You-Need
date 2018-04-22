@@ -24,6 +24,7 @@ YGP--You Get Paper.
 |010|2018-04-11|[基于Gossip协议的拜占庭共识算法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/010.pdf) |计算机科学|已读|
 |011|2018-04-19|[基于区块链的网络空间安全技术](https://github.com/i0Ek3/YGP/blob/master/paper/readed/011.pdf) |电子技术与软件工程|已读|
 |012|2018-04-21|[PoW 共识算法中的博弈困境分析与优化](https://github.com/i0Ek3/YGP/blob/master/paper/readed/012.pdf) |自动化学报|已读|
+|013|2018-04-22|[区块链技术发展现状与展望](https://github.com/i0Ek3/YGP/blob/master/paper/readed/013.pdf) |自动化学报|已读|
 
 
 
