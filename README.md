@@ -27,6 +27,8 @@ YGP--You Get Paper.
 |013|2018-04-22|[区块链技术发展现状与展望](https://github.com/i0Ek3/YGP/blob/master/paper/readed/013.pdf) |自动化学报|已读|
 |014|2018-04-|[Transactions as Proof-of-Stake](http://www.wanglutech.com/LoadFiles/file_1483944101721_[白皮书]Daniel%20Larimer-将交易作为权益证明[英文][PDF下载].pdf) |none|未读|
 |015|2018-04-|[In Search of an Understandable Consensus Algorithm](https://www.cnblogs.com/YaoDD/p/6172011.html) |none|未读|
+|016|2018-04-|[Consensus in Bitcoin: One system, many models](https://github.com/i0Ek3/YGP/blob/master/paper/readed/016.md) |none|已读|
+|017|2018-04-23|[基于DPOS的区块链共识方法和节点](https://github.com/i0Ek3/YGP/blob/master/paper/readed/017.pdf) |none|已读|
 
 
 
