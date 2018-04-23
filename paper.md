@@ -3,6 +3,13 @@ Something about Paper
 
 ## Related Paper Site
 
+### PFD Download
+
+- [Library Genesis](http://gen.lib.rus.ec)
+- [NAP](https://www.nap.edu)
+
+
+
 ### Recommend for English
 
 - [IEEE](https://www.ieee.org/index.html 'TOP1')
