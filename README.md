@@ -31,6 +31,7 @@ YGP--You Get Paper.
 |017|2018-04-23|[基于DPOS的区块链共识方法和节点](https://github.com/i0Ek3/YGP/blob/master/paper/readed/017-1.pdf) [区块链的分组共识方法及系统](https://github.com/i0Ek3/YGP/blob/master/paper/readed/017-2.pdf) |none|已读|
 |018|2018-04-26|[一种改进的区块链共识机制的研究与实现](https://github.com/i0Ek3/YGP/blob/master/paper/readed/018.pdf) |电子设计工程|已读|
 |019|2018-04-29|[具有状态合法性验证的区块链一致性算法研究](https://github.com/i0Ek3/YGP/blob/master/paper/readed/019.pdf) |计算机工程|已读|
+|020|2018-04-30|[一种应用于区块链的拜占庭容错共识方法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/020.pdf) |none|已读|
 
 
 
