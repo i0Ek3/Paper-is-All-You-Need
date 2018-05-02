@@ -6,6 +6,8 @@ YGP--You Get Paper.
 - < Writing Your Journal Article in Tweleve Weeks > --by Wendy Laura Belcher
 - < Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Sraring, Revising, and Finishing Your Doctoral Thesis > --by Joan Bolker
 
+## Paper on Every Morning
+- [The Morning Paper](https://blog.acolyer.org)
 
 
 ## Read Table
