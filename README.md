@@ -35,6 +35,7 @@ YGP--You Get Paper.
 |019|2018-04-29|[具有状态合法性验证的区块链一致性算法研究](https://github.com/i0Ek3/YGP/blob/master/paper/readed/019.pdf) |计算机工程|已读|
 |020|2018-04-30|[一种应用于区块链的拜占庭容错共识方法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/020.pdf) |none|已读|
 |021|2018-05-01|[一致性协议](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E4%B8%80%E8%87%B4%E6%80%A7%E5%8D%8F%E8%AE%AE.md) |[Cyc2018](https://github.com/CyC2018)|已读|
+|022|2018-05-03|[志愿云环境下的拜占庭容错研究](https://github.com/i0Ek3/YGP/blob/master/paper/readed/022.pdf) |计算机工程|已读|
 
 
 
