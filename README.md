@@ -37,6 +37,7 @@ YGP--You Get Paper.
 |021|2018-05-01|[一致性协议](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E4%B8%80%E8%87%B4%E6%80%A7%E5%8D%8F%E8%AE%AE.md) |[Cyc2018](https://github.com/CyC2018)|已读|
 |022|2018-05-03|[志愿云环境下的拜占庭容错研究](https://github.com/i0Ek3/YGP/blob/master/paper/readed/022.pdf) |计算机工程|已读|
 |023|2018-05-03|[区块链技术:架构及进展](https://github.com/i0Ek3/YGP/blob/master/paper/readed/023.pdf) |计算机学报|已读|
+|024|2018-05-09|[一种区块链共识机制](https://github.com/i0Ek3/YGP/blob/master/paper/readed/024.pdf) |none|已读|
 
 
 
