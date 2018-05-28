@@ -40,6 +40,7 @@ YGP--You Get Paper.
 |024|2018-05-09|[一种区块链共识机制](https://github.com/i0Ek3/YGP/blob/master/paper/readed/024.pdf) |none|已读|
 |025|2018-05-17|[一种基于BFT共识算法实现的动态节点管理方法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/025.pdf) |none|已读|
 |026|2018-05-19|[一种区块链功耗感知的PoW共识机制](https://github.com/i0Ek3/YGP/blob/master/paper/readed/026.pdf) |none|已读|
+|02r|2018-05-28|[一种基于Raft算法的区块链共识机制](https://github.com/i0Ek3/YGP/blob/master/paper/readed/028.pdf) |none|已读|
 
 
 
