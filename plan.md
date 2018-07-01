@@ -73,15 +73,17 @@
 时间是很快的，充实的生活会给人以莫大的鼓励，凡是坚持必有所获。
 
 
-# 2018-07- 暑假计划 
+# 2018-07-20 暑假计划 
 
-## 初步技术
+## 初步计划
 - 算法导论
 - 高级Python编程/spider
 - 高级Shell编程
-- C++问下/C++项目
-- 新技术的学习(FullStack)
-    - Lisp/Haskell/ReactNative
-- 英语训练
-- 西语/世界语
+- C++项目
+- Linux Kernel
+- Go/JavaScript/Lisp/Haskell/ReactNative
+- 英语训练:听力、口语
+- 西语/世界语/俄语
+- 读书
+- 书法
 
