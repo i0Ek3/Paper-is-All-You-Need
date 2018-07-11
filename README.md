@@ -50,6 +50,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |027|2018-05-28|[一种基于Raft算法的区块链共识机制](https://github.com/i0Ek3/YGP/blob/master/paper/readed/027.pdf) |none|已读|
 |028|2018-07-09|[From blockchain consensus back to Byzantine consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/028.pdf) |Elsevier|已读|
 |029|2018-07-11|[区块链技术:架构及进展](https://github.com/i0Ek3/YGP/blob/master/paper/readed/029.pdf) |计算机学报|已读|
+|029|2018-07-11|[The Byzantine Generals Problem](https://github.com/i0Ek3/YGP/blob/master/paper/readed/030.pdf) |Lamport|已读|
 
 
 
