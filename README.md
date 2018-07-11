@@ -1,13 +1,20 @@
 # YGP
-YGP--You Get Paper.
+
+YGP--You Get Paper. Which includes blockchains and consensus algorithm.
+
 
 
 ## Recommend Books
+
 - < Writing Your Journal Article in Tweleve Weeks > --by Wendy Laura Belcher
 - < Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Sraring, Revising, and Finishing Your Doctoral Thesis > --by Joan Bolker
 
+
+
 ## Paper on Every Morning
+
 - [The Morning Paper](https://blog.acolyer.org)
+
 
 
 ## Read Table
@@ -45,7 +52,14 @@ YGP--You Get Paper.
 
 
 
+## Note
+
+- 如何提高系统`吞吐率`是共识机制最迫切需要解决的问题，因此，包括在少部分可信节点中选取主节点的共识算法、保证高概率正确性的异步共识算法、基于特定安全性前提并减少网络广播的共识算法、基于可信 硬件的共识算法、同时融合PoW与PBFT优势的共识算法在未来都是值得关注的.
+
+
+
 ## Paper Writing Related Tools
+
 - MathType
     - [官网en](http://www.dessci.com/en/products/mathtype/)
     - [官网zh](http://www.mathtype.cn)
@@ -54,26 +68,6 @@ YGP--You Get Paper.
 
 
 
-
 ## Plan
 
-- [Holiday Plan](https://github.com/i0Ek3/YGP/blob/master/plan.md)
-    - Send to somebody
-
-- Paper(not yet)
-    - Chinese
-    - English
-
-- Coding
-    - C++(finished few part of English version,maybe I need to read Chinese version better)
-    - Python(finished project3 without deploy,continue other projs)
-    - Algorithm(a little)
-    - Shell(enhanced structure part)
-    - Go(not yet)
-
-- Other(not yet)
-    - Music
-    - Calligraphy
-    - Reading
-
-
+- [Visit here](https://github.com/i0Ek3/YGP/blob/master/plan.md)
