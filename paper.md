@@ -29,6 +29,7 @@ Something about Paper
 
 - [Hans](https://www.hanspub.org/)
 - [软件学报](http://www.jos.org.cn/ch/index.aspx)
+- [计算机科学](http://www.jsjkx.com/jsjkx/ch/index.aspx)
 - [计算机应用](http://www.joca.cn/CN/volumn/home.shtml)
 - ~[电子学报](http://manu57.magtech.com.cn/Jwk_dzxb/CN/volumn/current.shtml)~
 - [通信学报](http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml)
