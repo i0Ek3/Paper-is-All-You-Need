@@ -49,8 +49,9 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |026|2018-05-19|[一种区块链功耗感知的PoW共识机制](https://github.com/i0Ek3/YGP/blob/master/paper/readed/026.pdf) |none|已读|
 |027|2018-05-28|[一种基于Raft算法的区块链共识机制](https://github.com/i0Ek3/YGP/blob/master/paper/readed/027.pdf) |none|已读|
 |028|2018-07-09|[From blockchain consensus back to Byzantine consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/028.pdf) |Elsevier|已读|
-|029|2018-07-11|[The Byzantine Generals Problem](https://github.com/i0Ek3/YGP/blob/master/paper/readed/030.pdf) |Lamport|已读|
-|030|2018-07-14|[Proof of Luck: an Efficient Blockchain Consensus Protocol](https://github.com/i0Ek3/YGP/blob/master/paper/readed/031.pdf) |none|已读|
+|029|2018-07-11|[The Byzantine Generals Problem](https://github.com/i0Ek3/YGP/blob/master/paper/readed/029.pdf) |Lamport|已读|
+|030|2018-07-14|[Proof of Luck: an Efficient Blockchain Consensus Protocol](https://github.com/i0Ek3/YGP/blob/master/paper/readed/030.pdf) |none|已读|
+|031|2018-07-17|[区块链技术与应用前瞻综述](https://github.com/i0Ek3/YGP/blob/master/paper/readed/031.pdf) |计算机科学|已读|
 
 
 
