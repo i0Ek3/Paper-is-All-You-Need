@@ -54,7 +54,8 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |031|2018-07-17|[区块链技术与应用前瞻综述](https://github.com/i0Ek3/YGP/blob/master/paper/readed/031.pdf) |计算机科学|已读|
 |032|2018-07-24|[Federated Byzantine Agreement to Ensure Trustworthiness of Digital Manufacturing Platforms](https://github.com/i0Ek3/YGP/blob/master/paper/readed/032.pdf) |ACM|已读|
 |033|2018-07-24|[A Secure Sharding Protocol For Open Blockchains](https://github.com/i0Ek3/YGP/blob/master/paper/readed/033.pdf) |ACM|已读|
-|034|2018-07-25|[Mechanising Blockchain Consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/033.pdf) |ACM|已读|
+|034|2018-07-25|[Mechanising Blockchain Consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/034.pdf) |ACM|已读|
+|035|2018-07-26|[POSTER: Mining with Proof-of-Probability in Blockchain](https://github.com/i0Ek3/YGP/blob/master/paper/readed/035.pdf) |ACM|已读|
 
 
 
