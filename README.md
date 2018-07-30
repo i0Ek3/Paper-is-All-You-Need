@@ -58,6 +58,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |035|2018-07-26|[POSTER: Mining with Proof-of-Probability in Blockchain](https://github.com/i0Ek3/YGP/blob/master/paper/readed/035.pdf) |ACM|已读|
 |036|2018-07-28|[Conquering Generals: an NP-Hard Proof of Useful Work](https://github.com/i0Ek3/YGP/blob/master/paper/readed/036.pdf) |ACM|已读|
 |037|2018-07-29|[FruitChains- A Fair Blockchain](https://github.com/i0Ek3/YGP/blob/master/paper/readed/037.pdf) |ACM|已读|
+|038|2018-07-30|[On the Security and Performance of Proof of WorkBlockchains](https://github.com/i0Ek3/YGP/blob/master/paper/readed/038.pdf) |ACM|已读|
 
 
 
