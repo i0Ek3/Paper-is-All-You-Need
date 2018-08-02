@@ -61,6 +61,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |038|2018-07-30|[On the Security and Performance of Proof of WorkBlockchains](https://github.com/i0Ek3/YGP/blob/master/paper/readed/038.pdf) |ACM|已读|
 |039|2018-07-31|[RMBC: Randomized Mesh Blockchain Using DBFT Consensus Algorithm](https://github.com/i0Ek3/YGP/blob/master/paper/readed/039.pdf) |ACM|已读|
 |040|2018-08-01|[Inclusive Block Chain Protocols](https://github.com/i0Ek3/YGP/blob/master/paper/readed/040.pdf) |ACM|已读|
+|041|2018-08-02|[Proof of Stake versus Proof of Work](https://github.com/i0Ek3/YGP/blob/master/paper/readed/041.pdf) |ACM|已读|
 
 
 
