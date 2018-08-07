@@ -64,6 +64,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |041|2018-08-02|[Proof of Stake versus Proof of Work](https://github.com/i0Ek3/YGP/blob/master/paper/readed/041.pdf) |ACM|已读|
 |042|2018-08-03|[Bitcoin-NG: A Scalable Blockchain Protocol](https://github.com/i0Ek3/YGP/blob/master/paper/readed/042.pdf) |ACM|已读|
 |043|2018-08-06|[Transactions as Proof-of-Stake](https://github.com/i0Ek3/YGP/blob/master/paper/readed/043.pdf) |ACM|已读|
+|044|2018-08-07|[Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](https://github.com/i0Ek3/YGP/blob/master/paper/readed/044.pdf) |ACM|已读|
 
 
 
