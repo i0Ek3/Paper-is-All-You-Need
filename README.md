@@ -65,6 +65,8 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |042|2018-08-03|[Bitcoin-NG: A Scalable Blockchain Protocol](https://github.com/i0Ek3/YGP/blob/master/paper/readed/042.pdf) |ACM|已读|
 |043|2018-08-06|[Transactions as Proof-of-Stake](https://github.com/i0Ek3/YGP/blob/master/paper/readed/043.pdf) |ACM|已读|
 |044|2018-08-07|[Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](https://github.com/i0Ek3/YGP/blob/master/paper/readed/044.pdf) |ACM|已读|
+|045|2018-08-08|[Casper the Friendly Finality Gadget](https://github.com/i0Ek3/YGP/blob/master/paper/readed/045.pdf) |ACM|已读|
+|046|2018-08-08|[Bitcoin: A Peer-to-Peer Electronic Cash System](https://github.com/i0Ek3/YGP/blob/master/paper/readed/046.pdf) |Satoshi Nakamoto|已读|
 
 
 
