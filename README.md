@@ -67,7 +67,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |044|2018-08-07|[Anonymous Byzantine Consensus from Moderately-Hard Puzzles: A Model for Bitcoin](https://github.com/i0Ek3/YGP/blob/master/paper/readed/044.pdf) |ACM|已读|
 |045|2018-08-08|[Casper the Friendly Finality Gadget](https://github.com/i0Ek3/YGP/blob/master/paper/readed/045.pdf) |ACM|已读|
 |046|2018-08-08|[Bitcoin: A Peer-to-Peer Electronic Cash System](https://github.com/i0Ek3/YGP/blob/master/paper/readed/046.pdf) |Satoshi Nakamoto|已读|
-|047|2018-08-09|[Tendermint: Consensus without Mining](https://github.com/i0Ek3/YGP/blob/master/paper/readed/047.pdf) |Satoshi Nakamoto|已读|
+|047|2018-08-09|[Tendermint: Consensus without Mining](https://github.com/i0Ek3/YGP/blob/master/paper/readed/047.pdf) |none|已读|
 |048|2018-08-10|[PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake](https://github.com/i0Ek3/YGP/blob/master/paper/readed/048.pdf) |PPCoin|已读|
 |049|2018-08-10|[The Byzantine Generals Problem](https://github.com/i0Ek3/YGP/blob/master/paper/readed/049.pdf) |Lamport|重读|
 
