@@ -12,13 +12,14 @@ Something about Paper
 
 ### Recommend for English
 
-- [IEEE](https://www.ieee.org/index.html 'TOP1')
+- [IEEE](https://www.ieee.org/index.html) It's library is [here](https://ieeexplore.ieee.org/Xplore/home.jsp).
 - [ACM](https://dl.acm.org/ 'TOP2')
 - [ScienceDirect](https://www.sciencedirect.com 'TOP3')
 - SCI
     - [备用](http://sci-hub.tw/ 'This Site Always Update!')
     - ~~[备用1](80.82.77.84)~~
     - ~~[备用2](80.82.77.83)~~
+- [Google Scholar](https://scholar.google.com.hk/schhp?hl=zh-CN&as_sdt=0,5)
 - [ELSEVIER](https://www.elsevier.com/)
 - [SIGDOC](https://sigdoc.acm.org/)
 - [SIGCOMM](https://www.sigcomm.org/)
