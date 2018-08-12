@@ -71,7 +71,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |048|2018-08-10|[PPCoin: Peer-to-Peer Crypto-Currency with Proof-of-Stake](https://github.com/i0Ek3/YGP/blob/master/paper/readed/048.pdf) |PPCoin|已读|
 |049|2018-08-10|[The Byzantine Generals Problem](https://github.com/i0Ek3/YGP/blob/master/paper/readed/049.pdf) |Lamport|重读|
 |050|2018-08-11|[A Simpleand Efficient Randomized Byzantine Agreement Algorithm](https://github.com/i0Ek3/YGP/blob/master/paper/readed/050.pdf) |IEEE|已读|
-|051|2018-08-11|[Comparative analysis of blockchain consensus algorithms](https://github.com/i0Ek3/YGP/blob/master/paper/readed/051.pdf) |IEEE|未读|
+|051|2018-08-12|[Comparative analysis of blockchain consensus algorithms](https://github.com/i0Ek3/YGP/blob/master/paper/readed/051.pdf) |IEEE|已读|
 |052|2018-08-11|[Proof of Vote: A High-Performance Consensus Protocol Based on Vote Mechanism & Consortium Blockchain](https://github.com/i0Ek3/YGP/blob/master/paper/readed/052.pdf) |IEEE|未读|
 |053|2018-08-11|[Zero-determinant strategy for the algorithm optimize of blockchain PoW consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/053.pdf) |IEEE|未读|
 |054|2018-08-11|[A review on consensus algorithm of blockchain](https://github.com/i0Ek3/YGP/blob/master/paper/readed/054.pdf) |IEEE|未读|
