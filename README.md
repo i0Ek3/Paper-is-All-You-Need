@@ -76,7 +76,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |053|2018-08-13|[Zero-determinant strategy for the algorithm optimize of blockchain PoW consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/053.pdf) |IEEE|已读|
 |054|2018-08-14|[A review on consensus algorithm of blockchain](https://github.com/i0Ek3/YGP/blob/master/paper/readed/054.pdf) |IEEE|已读|
 |055|2018-08-15|[PoPF: A Consensus Algorithm for JCLedger](https://github.com/i0Ek3/YGP/blob/master/paper/readed/055.pdf) |IEEE|已读|
-|056|2018-08-11|[A Proof-of-Trust Consensus Protocol for Enhancing Accountability in Crowdsourcing Services](https://github.com/i0Ek3/YGP/blob/master/paper/readed/056.pdf) |IEEE|未读|
+|056|2018-08-16|[A Proof-of-Trust Consensus Protocol for Enhancing Accountability in Crowdsourcing Services](https://github.com/i0Ek3/YGP/blob/master/paper/readed/056.pdf) |IEEE|已读|
 |057|2018-08-11|[Proof of Contribution: A Modification of Proof of Work to Increase Mining Efficiency](https://github.com/i0Ek3/YGP/blob/master/paper/readed/057.pdf) |IEEE|未读|
 |058|2018-08-11|[](https://github.com/i0Ek3/YGP/blob/master/paper/readed/058.pdf) |IEEE|未读|
 
