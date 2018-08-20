@@ -79,7 +79,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |056|2018-08-16|[A Proof-of-Trust Consensus Protocol for Enhancing Accountability in Crowdsourcing Services](https://github.com/i0Ek3/YGP/blob/master/paper/readed/056.pdf) |IEEE|已读|
 |057|2018-08-17|[Proof of Contribution: A Modification of Proof of Work to Increase Mining Efficiency](https://github.com/i0Ek3/YGP/blob/master/paper/readed/057.pdf) |IEEE|已读|
 |058|2018-08-19|[Delegated Proof of Stake: Features & Tradeoffs](https://github.com/i0Ek3/YGP/blob/master/paper/readed/058.pdf) |IEEE|已读|
-|059|2018-08-|[Fast Byzantine Consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/059.pdf) |IEEE|未读|
+|059|2018-08-20|[Fast Byzantine Consensus](https://github.com/i0Ek3/YGP/blob/master/paper/readed/059.pdf) |IEEE|已读|
 |060|2018-08-|[Impossibility of Distributed Consensus with One Faulty Process](https://github.com/i0Ek3/YGP/blob/master/paper/readed/060.pdf) |IEEE|未读|
 |061|2018-08-|[In Search of an Understandable Consensus Algorithm](https://github.com/i0Ek3/YGP/blob/master/paper/readed/061.pdf) |IEEE|未读|
 |062|2018-08-|[On Security Analysis of Proof-of-Elapsed-Time (PoET)](https://github.com/i0Ek3/YGP/blob/master/paper/readed/062.pdf) |IEEE|未读|
