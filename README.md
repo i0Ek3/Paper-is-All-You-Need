@@ -84,7 +84,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |061|2018-09-15|[In Search of an Understandable Consensus Algorithm](https://github.com/i0Ek3/YGP/blob/master/paper/readed/061.pdf) |IEEE|已读|
 |062|2018-09-16|[On Security Analysis of Proof-of-Elapsed-Time (PoET)](https://github.com/i0Ek3/YGP/blob/master/paper/readed/062.pdf) |IEEE|已读|
 |063|2018-09-17|[Proof of Luck: an Efficient Blockchain Consensus Protocol](https://github.com/i0Ek3/YGP/blob/master/paper/readed/063.pdf) |IEEE|已读|
-|064|2018-08-|[Proof of Activity: Extending Bitcoin’s Proof of Work via Proof of Stake](https://github.com/i0Ek3/YGP/blob/master/paper/readed/064.pdf) |IEEE|未读|
+|064|2018-09-18|[Proof of Activity: Extending Bitcoin’s Proof of Work via Proof of Stake](https://github.com/i0Ek3/YGP/blob/master/paper/readed/064.pdf) |IEEE|已读|
 
 
 
