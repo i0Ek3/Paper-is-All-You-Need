@@ -66,9 +66,13 @@
 ![Different Types of Consensus Algorithms Infographic](https://github.com/i0Ek3/YGP/blob/master/image/Different_Consensus_Algorithms.png)
 
 
-
-
 ## 第二章：拜占庭容错算法的问题
+
+
+
+
+
+
 
 ## 第三章：我们为什么需要共识算法？
 
