@@ -89,6 +89,11 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 
 
 
+## Details
+
+- [raft动画演示](http://thesecretlivesofdata.com/raft/)
+
+
 ## Note
 
 - 如何提高系统`吞吐率`是共识机制最迫切需要解决的问题，因此，包括在少部分可信节点中选取主节点的共识算法、保证高概率正确性的异步共识算法、基于特定安全性前提并减少网络广播的共识算法、基于可信 硬件的共识算法、同时融合PoW与PBFT优势的共识算法在未来都是值得关注的.
