@@ -132,7 +132,7 @@
 * PoS--股权证明
 * DPoS--委托股权证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/058.pdf)
 * LPoS--租赁股权证明
-* PoE--时间消逝证明
+* PoET--时间消逝证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/062.pdf)
 * PBFT--实用拜占庭容错
 * SBFT--简单拜占庭容错
 * DBFT--委托拜占庭容错
@@ -148,7 +148,7 @@
 * Bitcoin-NG
 * Casper
 * Tendermint
-* Raft
+* Raft [动画演示](http://thesecretlivesofdata.com/raft/)
 * Paxos
 * PoL--幸运证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/030.pdf)
 * PoP--可能性证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/035.pdf)
