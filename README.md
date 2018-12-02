@@ -85,6 +85,7 @@ YGP--You Get Paper. Which includes blockchain and consensus algorithm.
 |064|2018-09-18|[Proof of Activity: Extending Bitcoin’s Proof of Work via Proof of Stake](https://github.com/i0Ek3/YGP/blob/master/paper/readed/064.pdf) |IEEE|已读|
 |065|2018-09-24|[Consensus Algorithms: The Root Of The Blockchain Technology](https://github.com/i0Ek3/YGP/blob/master/The-Root-Of-The-Blockchain-Technology.md?1537755489126) |101blockchains|已读|
 |066|2018-11-20|[Delegated Proof of Stake: Features & Tradeoffs](https://github.com/i0Ek3/YGP/blob/master/paper/readed/058.pdf) |IEEE|重读|
+|067|2018-12-02|[DPOS Consensus Algorithm - The Missing White Paper](https://github.com/i0Ek3/YGP/blob/master/paper/readed/067.pdf) |Steemit|已读|
 
 
 
