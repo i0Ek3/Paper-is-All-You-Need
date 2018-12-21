@@ -27,6 +27,7 @@ Something about Paper
 
 ### Recommend for Chinese
 
+- [ncpssd](http://www.ncpssd.org)
 - [Hans](https://www.hanspub.org/)
 - [软件学报](http://www.jos.org.cn/ch/index.aspx)
 - [计算机科学](http://www.jsjkx.com/jsjkx/ch/index.aspx)
