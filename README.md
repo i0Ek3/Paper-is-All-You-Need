@@ -8,7 +8,7 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
 - [The Morning Paper](https://blog.acolyer.org)
 - Book
-    - < Writing Your Journal Article in Tweleve Weeks > --by Wendy Laura Belcher
+    - [< Writing Your Journal Article in Tweleve Weeks > --by Wendy Laura Belcher](https://wendybelcher.com/writing-advice/workbook-forms/)
     - < Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Sraring, Revising, and Finishing Your Doctoral Thesis > --by Joan Bolker
 
 
@@ -86,6 +86,7 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 |065|2018-09-24|[Consensus Algorithms: The Root Of The Blockchain Technology](https://github.com/i0Ek3/YGP/blob/master/The-Root-Of-The-Blockchain-Technology.md?1537755489126) |101blockchains|已读|
 |066|2018-11-20|[Delegated Proof of Stake: Features & Tradeoffs](https://github.com/i0Ek3/YGP/blob/master/paper/readed/058.pdf) |IEEE|重读|
 |067|2018-12-02|[DPOS Consensus Algorithm - The Missing White Paper](https://github.com/i0Ek3/YGP/blob/master/paper/readed/067.pdf) |Steemit|已读|
+|068|2019-02-10|[基于投票机制的拜占庭容错共识算法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/068.pdf) |计算机应用|已读|
 
 
 
