@@ -32,7 +32,7 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 |011|2018-04-19|[基于区块链的网络空间安全技术](https://github.com/i0Ek3/YGP/blob/master/paper/readed/011.pdf) |电子技术与软件工程|已读|
 |012|2018-04-21|[PoW 共识算法中的博弈困境分析与优化](https://github.com/i0Ek3/YGP/blob/master/paper/readed/012.pdf) |自动化学报|已读|
 |013|2018-04-22|[区块链技术发展现状与展望](https://github.com/i0Ek3/YGP/blob/master/paper/readed/013.pdf) |自动化学报|已读|
-|014|2018-05-02|[Transactions as Proof-of-Stake](http://www.wanglutech.com/LoadFiles/file_1483944101721_[白皮书]Daniel%20Larimer-将交易作为权益证明[英文][PDF下载].pdf) |none|已读|
+|014|2018-05-02|[Transactions as Proof-of-Stake](http://www.wanglutech.com/LoadFiles/file_1483944101721\_[白皮书]Daniel%20Larimer-将交易作为权益证明[英文][PDF下载].pdf) |none|已读|
 |015|2018-05-12|[In Search of an Understandable Consensus Algorithm](https://www.cnblogs.com/YaoDD/p/6172011.html) |none|已读|
 |016|2018-05-12|[Consensus in Bitcoin: One system, many models](https://github.com/i0Ek3/YGP/blob/master/paper/readed/016.md) |none|已读|
 |017|2018-04-23|[基于DPOS的区块链共识方法和节点](https://github.com/i0Ek3/YGP/blob/master/paper/readed/017-1.pdf) [区块链的分组共识方法及系统](https://github.com/i0Ek3/YGP/blob/master/paper/readed/017-2.pdf) |none|已读|
@@ -87,6 +87,8 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 |066|2018-11-20|[Delegated Proof of Stake: Features & Tradeoffs](https://github.com/i0Ek3/YGP/blob/master/paper/readed/058.pdf) |IEEE|重读|
 |067|2018-12-02|[DPOS Consensus Algorithm - The Missing White Paper](https://github.com/i0Ek3/YGP/blob/master/paper/readed/067.pdf) |Steemit|已读|
 |068|2019-02-10|[基于投票机制的拜占庭容错共识算法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/068.pdf) |计算机应用|已读|
+|069|2019-02-13|[DPoS 概述](https://dpos.club/posts/14) |DPoS Club|已读|
+|070|2019-02-13|[区块链安全问题：研究现状与发展](https://github.com/i0Ek3/YGP/blob/master/paper/readed/070.pdf) |自动化学报|已读|
 
 
 
