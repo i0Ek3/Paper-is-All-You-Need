@@ -1,4 +1,4 @@
-# Write Paper
+# How to Write Paper
 
 > 文章转载自网络，侵删。
 
