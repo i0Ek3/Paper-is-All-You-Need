@@ -4,6 +4,7 @@
 
 You Get Paper, which includes blockchain and consensus algorithm relative contents. However, whatever you major in, you also can use this guide to search and writing your papers. Fortunately, if you research blockchain, you will get it and something in your eyes. Good luck~ 
 
+> If you dont know what is blockchain, you can visit [here](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html) and [here](https://www.zhihu.com/question/37290469) to know it simply.
 
 ## Recommend
 
@@ -15,6 +16,7 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 - [Paper Publications](https://github.com/i0Ek3/YGP/blob/master/docs/paper.md)
 - [Notes](https://github.com/i0Ek3/YGP/blob/master/docs/notes.md)
 - [Template](https://github.com/i0Ek3/YGP/tree/master/template)
+- [关于答辩](https://www.douban.com/note/498257677/)
 
 
 ## Read Table
