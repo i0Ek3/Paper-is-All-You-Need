@@ -14,9 +14,9 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
     - [< Writing Your Journal Article in Tweleve Weeks > --by Wendy Laura Belcher](https://wendybelcher.com/writing-advice/workbook-forms/)
     - < Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Sraring, Revising, and Finishing Your Doctoral Thesis > --by Joan Bolker
 - [Paper Publications](https://github.com/i0Ek3/YGP/blob/master/docs/paper.md)
-- [Notes](https://github.com/i0Ek3/YGP/blob/master/docs/notes.md)
 - [Template](https://github.com/i0Ek3/YGP/tree/master/template)
-- [关于答辩](https://www.douban.com/note/498257677/)
+- [毕业论文新手入坑手册](https://bookdown.org/wshuyi/intro-to-scientific-writings/)
+- [How to Read a Paper Efficiently](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y) The Great Wall Here.
 
 
 ## Read Table
@@ -95,11 +95,7 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 |068|2019-02-10|[基于投票机制的拜占庭容错共识算法](https://github.com/i0Ek3/YGP/blob/master/paper/readed/068.pdf) |计算机应用|已读|
 |069|2019-02-13|[DPoS 概述](https://dpos.club/posts/14) |DPoS Club|已读|
 |070|2019-02-13|[区块链安全问题：研究现状与发展](https://github.com/i0Ek3/YGP/blob/master/paper/readed/070.pdf) |自动化学报|已读|
-
-
-
-
-
+|071|2019-04-13|[30 种共识算法完全列表](https://www.infoq.cn/article/consensuspedia-an-encyclopedia-of-29-consensus-algorithms)|InfoQ|已读|
 
 ## Paper Writing Related Tools
 
@@ -111,6 +107,8 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
     - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
     - [mermaid](https://mermaidjs.github.io/)
 - [OMNET](https://www.omnetpp.org/)
-
-
+- GNUPlot
+- Matlab
+- [VOSviewer](http://www.vosviewer.com)
+- [Pandoc](https://pandoc.org)
 

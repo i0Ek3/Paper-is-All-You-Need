@@ -11,14 +11,15 @@ Something about Paper
 ### Recommend for English
 
 - [IEEE](https://www.ieee.org/index.html) It's library is [here](https://ieeexplore.ieee.org/Xplore/home.jsp).
-- [ACM](https://dl.acm.org/ 'TOP2')
-- [ScienceDirect](https://www.sciencedirect.com 'TOP3')
-- [DBLP](http://dblp.org/ 'TOP4')
+- [ACM](https://dl.acm.org/)
+- [arxiv.org](https://arxiv.org/)
+- [arxiv-sanity](https://arxiv-sanity.com)
+- [ScienceDirect](https://www.sciencedirect.com)
+- [DBLP](http://dblp.org/)
 - SCI
-    - [备用](http://sci-hub.tw/ 'This Site Always Update!')
+    - [备用](http://sci-hub.tw/)
     - ~~[备用1](80.82.77.84)~~
     - ~~[备用2](80.82.77.83)~~
-- [arxiv.org](https://arxiv.org/)
 - [ELSEVIER](https://www.elsevier.com/)
 - [SIGDOC](https://sigdoc.acm.org/)
 - [SIGCOMM](https://www.sigcomm.org/)
@@ -48,6 +49,7 @@ Something about Paper
 
 ### Other Sites
 
+- [Scopus](https://www.scopus.com/home.uri)
 - [Google Scholar](https://scholar.google.com.hk/schhp?hl=zh-CN&as_sdt=0,5)
 - [SCIEI](http://www.sciei.org/)
 - [ResearchGate](https://www.researchgate.net/)
