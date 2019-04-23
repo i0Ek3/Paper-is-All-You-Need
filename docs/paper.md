@@ -31,7 +31,9 @@ Something about Paper
 - [ncpssd](http://www.ncpssd.org)
 - [Hans](https://www.hanspub.org/)
 - [软件学报](http://www.jos.org.cn/ch/index.aspx)
+- [计算机科学](http://journal.jsjkx.com/jsjkx/ch/index.aspx) 新版。
 - ~[计算机科学](http://www.jsjkx.com/jsjkx/ch/index.aspx)~
+- [计算机科学与探索](http://fcst.ceaj.org/CN/volumn/home.shtml)
 - [计算机应用](http://www.joca.cn/CN/volumn/home.shtml)
 - ~[电子学报](http://manu57.magtech.com.cn/Jwk_dzxb/CN/volumn/current.shtml)~
 - [通信学报](http://www.infocomm-journal.com/txxb/CN/1000-436X/home.shtml)
@@ -39,7 +41,6 @@ Something about Paper
 - [计算机工程与应用](http://cea.ceaj.org/CN/volumn/home.shtml)
 - [自动化学报](http://www.aas.net.cn/CN/volumn/current.shtml)
 - [中国计算机期刊网](http://www.computerjournals.net/cn/default.aspx)
-- [百度学术](http://xueshu.baidu.com/)
 
 
 
@@ -58,6 +59,7 @@ Something about Paper
 - [Springer](https://link.springer.com/)
 - [Wiley Online Library](http://onlinelibrary.wiley.com/)
 
+- [百度学术](http://xueshu.baidu.com/)
 - [鸠摩搜索](https://www.jiumodiary.com)
 - [Glgoo](https://scholar.glgoo.org/)
 - [iDate](https://www.cn-ki.net/)

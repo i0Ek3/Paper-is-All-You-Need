@@ -8,6 +8,7 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 
 ## Links
 
+- [区块链相关学术会议](https://www.chainnews.com/articles/093248364340.htm)
 - [中国计算机学会](https://www.ccf.org.cn)
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
 - [The Morning Paper](https://blog.acolyer.org)
