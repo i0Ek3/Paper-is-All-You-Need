@@ -1,6 +1,5 @@
 # YGP
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 You Get Paper, which includes blockchain and consensus algorithm relative contents. However, whatever you major in, you also can use this guide to search and writing your papers. Fortunately, if you research blockchain, you will get it and something in your eyes. Good luck~ 
 
