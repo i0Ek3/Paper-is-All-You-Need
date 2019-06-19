@@ -97,6 +97,7 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 |069|2019-02-13|[DPoS 概述](https://dpos.club/posts/14) |DPoS Club|已读|
 |070|2019-02-13|[区块链安全问题：研究现状与发展](https://github.com/i0Ek3/YGP/blob/master/paper/readed/070.pdf) |自动化学报|已读|
 |071|2019-04-13|[30 种共识算法完全列表](https://www.infoq.cn/article/consensuspedia-an-encyclopedia-of-29-consensus-algorithms)|InfoQ|已读|
+|072|2019-06-19|[Proof of Authority](https://blockonomi.com/proof-of-authority/)|BlockOnomi|已读|
 
 ## Paper Writing Related Tools
 
