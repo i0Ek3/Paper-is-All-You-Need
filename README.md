@@ -1,28 +1,12 @@
 # YGP
 
+> You Get Paper, blockchain and AI related.
 
-You Get Paper, which includes blockchain and consensus algorithm relative contents. However, whatever you major in, you also can use this guide to search and writing your papers. Fortunately, if you research blockchain, you will get it and something in your eyes. Good luck~ 
+## ML-DL
 
-> If you dont know what is blockchain, you can visit [here](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html) and [here](https://www.zhihu.com/question/37290469) to know it simply.
+coming soon...
 
-## Links
-
-- [区块链相关学术会议](https://www.chainnews.com/articles/093248364340.htm)
-- [中国计算机学会](https://www.ccf.org.cn)
-- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
-- [The Morning Paper](https://blog.acolyer.org)
-- Book
-    - [< Writing Your Journal Article in Tweleve Weeks > --by Wendy Laura Belcher](https://wendybelcher.com/writing-advice/workbook-forms/)
-    - < Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Sraring, Revising, and Finishing Your Doctoral Thesis > --by Joan Bolker
-- [Paper Publications](https://github.com/i0Ek3/YGP/blob/master/docs/paper.md)
-- [Template](https://github.com/i0Ek3/YGP/tree/master/template)
-- [毕业论文新手入坑手册](https://bookdown.org/wshuyi/intro-to-scientific-writings/)
-- [How to Read a Paper Efficiently](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y) The Great Wall Here.
-- [Blockchain Bibliography](https://cryptographylab.bitbucket.io/BlockchainBib.html)
-- [中图分类查询](http://www.clcindex.com/category/TP/)
-
-
-## Read Table
+### Blockchain
 
 > **If you want to know more about blockchain and it's concensus algorithms, please read 023, 031, 054, 065 first. Of course, you also can download 009.pdf to know it fully.**
 
@@ -101,18 +85,18 @@ You Get Paper, which includes blockchain and consensus algorithm relative conten
 |071|2019-04-13|[30 种共识算法完全列表](https://www.infoq.cn/article/consensuspedia-an-encyclopedia-of-29-consensus-algorithms)|InfoQ|已读|
 |072|2019-06-19|[Proof of Authority](https://blockonomi.com/proof-of-authority/)|BlockOnomi|已读|
 
-## Paper Writing Related Tools
 
-- MathType
-    - [官网en](http://www.dessci.com/en/products/mathtype/)
-    - [官网zh](http://www.mathtype.cn)
-- [MircoVisio](https://products.office.com/en-us/visio/flowchart-software?tab=tabs-1)
-    - [ProcessOn](https://www.processon.com/)
-    - [Omnigraffle](https://www.omnigroup.com/omnigraffle)
-    - [mermaid](https://mermaidjs.github.io/)
-- [OMNET](https://www.omnetpp.org/)
-- GNUPlot
-- Matlab
-- [VOSviewer](http://www.vosviewer.com)
-- [Pandoc](https://pandoc.org)
+
+
+## Links
+
+- Book
+    - [< Writing Your Journal Article in Tweleve Weeks > --by Wendy Laura Belcher](https://wendybelcher.com/writing-advice/workbook-forms/)
+    - < Writing Your Dissertation in Fifteen Minutes a Day: A Guide to Sraring, Revising, and Finishing Your Doctoral Thesis > --by Joan Bolker
+- How to Read a Paper
+    - [video](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y) The Great Wall in here.
+    - [html](https://www.qbitai.com/2019/12/10311.html) By Srinivasan Keshav.
+- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
+- [The Morning Paper](https://blog.acolyer.org)
+- [毕业论文新手入坑手册](https://bookdown.org/wshuyi/intro-to-scientific-writings/)
 

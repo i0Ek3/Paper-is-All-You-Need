@@ -11,10 +11,5 @@
 - [如何读文献与写论文](https://www.douban.com/note/673765209/)
 - [论文的写作要求、流程与写作技巧](http://www.cnki.com.cn/delivery/lunwen-ruhexielunwen-0.htm)
 - [如何撰写学术论文](http://cos.neu.edu.cn/RCAS/kyly.htm)
-- []()
-- []()
-- []()
-- []()
-
 
 
