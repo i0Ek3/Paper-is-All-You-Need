@@ -137,14 +137,14 @@
 
 * PoW--工作量证明
 * PoS--股权证明
-* DPoS--委托股权证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/058.pdf)
+* DPoS--委托股权证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/058.pdf)
 * LPoS--租赁股权证明
-* PoET--时间消逝证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/062.pdf)
+* PoET--时间消逝证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/062.pdf)
 * PBFT--实用拜占庭容错
 * SBFT--简单拜占庭容错
 * DBFT--委托拜占庭容错
 * DAG--有向无环图
-* PoA--活动证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/064.pdf)
+* PoA--活动证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/064.pdf)
 * PoI--重要性证明
 * PoCapcity--容量证明
 * PoB--燃烧证明
@@ -157,11 +157,11 @@
 * Tendermint
 * Raft [动画演示](http://thesecretlivesofdata.com/raft/)
 * Paxos
-* PoL--幸运证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/030.pdf)
-* PoP--可能性证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/035.pdf)
-* PoV--投票证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/052.pdf)
-* PoT--信任证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/056.pdf)
-* PoContribution--贡献证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/readed/057.pdf)
+* PoL--幸运证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/030.pdf)
+* PoP--可能性证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/035.pdf)
+* PoV--投票证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/052.pdf)
+* PoT--信任证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/056.pdf)
+* PoContribution--贡献证明 [参考](https://github.com/i0Ek3/YGP/blob/master/paper/blockchain/057.pdf)
         
 
 ### Proof of Work
