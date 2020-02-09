@@ -7,15 +7,24 @@
 | # | Title | Type | Belongs |
 |---|-------|------|---------|
 |001|[A Meta-Analysis of the Anomaly Detection Problem](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/001.pdf)|Anomaly Detection|arXiv|
-|002|[DEEP LEARNING FOR ANOMALY DETECTION: A SURVEY](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/002.pdf)|Anomaly Detection|arXiv|
+|002|[Deep Learning for Anomaly Detection: A Survey](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/002.pdf)|Anomaly Detection|arXiv|
 |003|[Anomaly Detection: A Survey](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/003.pdf)|Anomaly Detection|ACM|
 |004|[FastLOF: An Expectation-Maximization based Local Outlier Detection Algorithm](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/004.pdf)|Anomaly Detection\LOF|N/A|
 |005|[A Survey of Outlier Detection Methodologies.](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/005.pdf)|Anomaly Detection|N/A|
 |006|[LOF: Identifying Density-Based Local Outliers](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/006.pdf)|Anomaly Detection\LOF|ACM SIGMOD|
 |007|[Long Short-Term Memory](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/007.pdf)|LSTM|N/A|
 |008|[Understanding LSTM Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/008.pdf)|LSTM|N/A|
-|009|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/009.pdf)|arXiv|
-|010|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/010.pdf)|arXiv|
+|009|[ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/009.pdf)|N/A|
+|010|[Deep Residual Learning for Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/010.pdf)|IEEE Xplore|
+|011|[Gradient-Based Learning Applied to Document Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/011.pdf)|IEEE|
+|012|[Very Deep Convolutional Networks for Large-scale Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/012.pdf)|ICLR|
+|013|[Going deeper with convolutions](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/013.pdf)|arXiv|
+|014|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/014.pdf)|IEEE Xplore|
+|015|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/015.pdf)|IEEE Xplore|
+|016|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/016.pdf)|IEEE Xplore|
+|017|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/017.pdf)|IEEE Xplore|
+|018|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/018.pdf)|IEEE Xplore|
+|019|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/019.pdf)|IEEE Xplore|
 
 ### Blockchain
 
