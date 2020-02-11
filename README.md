@@ -4,27 +4,37 @@
 
 ## ML-DL
 
-| # | Title | Type | Belongs |
-|---|-------|------|---------|
-|001|[A Meta-Analysis of the Anomaly Detection Problem](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/001.pdf)|Anomaly Detection|arXiv|
-|002|[Deep Learning for Anomaly Detection: A Survey](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/002.pdf)|Anomaly Detection|arXiv|
-|003|[Anomaly Detection: A Survey](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/003.pdf)|Anomaly Detection|ACM|
-|004|[FastLOF: An Expectation-Maximization based Local Outlier Detection Algorithm](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/004.pdf)|Anomaly Detection\LOF|N/A|
-|005|[A Survey of Outlier Detection Methodologies.](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/005.pdf)|Anomaly Detection|N/A|
-|006|[LOF: Identifying Density-Based Local Outliers](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/006.pdf)|Anomaly Detection\LOF|ACM SIGMOD|
-|007|[Long Short-Term Memory](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/007.pdf)|LSTM|N/A|
-|008|[Understanding LSTM Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/008.pdf)|LSTM|N/A|
-|009|[ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/009.pdf)|N/A|
-|010|[Deep Residual Learning for Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/010.pdf)|IEEE Xplore|
-|011|[Gradient-Based Learning Applied to Document Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/011.pdf)|IEEE|
-|012|[Very Deep Convolutional Networks for Large-scale Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/012.pdf)|ICLR|
-|013|[Going deeper with convolutions](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/013.pdf)|arXiv|
-|014|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/014.pdf)|IEEE Xplore|
-|015|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/015.pdf)|IEEE Xplore|
-|016|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/016.pdf)|IEEE Xplore|
-|017|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/017.pdf)|IEEE Xplore|
-|018|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/018.pdf)|IEEE Xplore|
-|019|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/019.pdf)|IEEE Xplore|
+| # | Title | Comment |
+|---|-------|---------|
+|001|[A Meta-Analysis of the Anomaly Detection Problem](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/001.pdf)|Anomaly Detection:arXiv|
+|002|[Deep Learning for Anomaly Detection: A Survey](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/002.pdf)|Anomaly Detection:arXiv|
+|003|[Anomaly Detection: A Survey](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/003.pdf)|Anomaly Detection:ACM|
+|004|[FastLOF: An Expectation-Maximization based Local Outlier Detection Algorithm](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/004.pdf)|Anomaly Detection:N/A|
+|005|[A Survey of Outlier Detection Methodologies.](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/005.pdf)|Anomaly Detection:N/A|
+|006|[LOF: Identifying Density-Based Local Outliers](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/006.pdf)|Anomaly Detection:ACM SIGMOD|
+|007|[Long Short-Term Memory](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/007.pdf)|LSTM:N/A|
+|008|[Understanding LSTM Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/008.pdf)|LSTM:N/A|
+|009|[ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/009.pdf)|Classification:N/A|
+|010|[Deep Residual Learning for Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/010.pdf)|ResNet:IEEE Xplore|
+|011|[Gradient-Based Learning Applied to Document Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/011.pdf)|Recognition:IEEE|
+|012|[Very Deep Convolutional Networks for Large-scale Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/012.pdf)|N/A:ICLR|
+|013|[Going deeper with convolutions](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/013.pdf)|Inception:arXiv|
+|014|[You Only Look Once: Unified, Real-Time Object Detection](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/014.pdf)|Objection Detection:arXiv|
+|015|[Rich feature hierarchies for accurate object detection and semantic segmentation](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/015.pdf)|R-CNN:IEEE|
+|016|[FaceNet: A Unified Embedding for Face Recognition and Clustering](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/016.pdf)|Face Recognition:arXiv|
+|017|[DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/017.pdf)|Face Verification:N/A|
+|018|[Visualizing and Understanding Convolutional Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/018.pdf)|Convolutional Networks:arXiv|
+|019|[A Neural Algorithm of Artistic Style](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/019.pdf)|N/A:arXiv|
+|020|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/020.pdf)|:arXiv|
+|021|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/021.pdf)|:arXiv|
+|022|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/022.pdf)|:arXiv|
+|023|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/023.pdf)|:arXiv|
+|024|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/024.pdf)|:arXiv|
+|025|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/025.pdf)|:arXiv|
+|026|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/026.pdf)|:arXiv|
+|027|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/027.pdf)|:arXiv|
+|028|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/028.pdf)|:arXiv|
+|029|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/029.pdf)|:arXiv|
 
 ### Blockchain
 
