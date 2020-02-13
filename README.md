@@ -27,11 +27,11 @@
 |019|[A Neural Algorithm of Artistic Style](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/019.pdf)|N/A:arXiv|
 |020|[On the Properties of Neural Machine Translation: Encoder–Decoder Approaches](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/020.pdf)|N/A:arXiv|
 |021|[Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/021.pdf)|N/A:arXiv|
-|022|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/022.pdf)|:arXiv|
-|023|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/023.pdf)|:arXiv|
-|024|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/024.pdf)|:arXiv|
-|025|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/025.pdf)|:arXiv|
-|026|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/026.pdf)|:arXiv|
+|022|[Efficient Estimation of Word Representations in Vector Space](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/022.pdf)|Word Representations:arXiv|
+|023|[Distributed Representations of Words and Phrases and their Compositionality](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/023.pdf)|Word Representations:arXiv|
+|024|[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/024.pdf)|Word Prepresentations:arXiv|
+|025|[GloVe: Global Vectors for Word Representation](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/025.pdf)|Word Representations:arXiv|
+|026|[Linguistic Regularities in Continuous Space Word Representations](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/026.pdf)|Word Representations:arXiv|
 |027|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/027.pdf)|:arXiv|
 |028|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/028.pdf)|:arXiv|
 |029|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/029.pdf)|:arXiv|
