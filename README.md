@@ -32,9 +32,19 @@
 |024|[Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/024.pdf)|Word Prepresentations:arXiv|
 |025|[GloVe: Global Vectors for Word Representation](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/025.pdf)|Word Representations:arXiv|
 |026|[Linguistic Regularities in Continuous Space Word Representations](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/026.pdf)|Word Representations:arXiv|
-|027|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/027.pdf)|:arXiv|
-|028|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/028.pdf)|:arXiv|
-|029|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/029.pdf)|:arXiv|
+|027|[Neural Machine Translation by Jointly Learning to Aliagn and Translate](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/027.pdf)|N/A:arXiv|
+|028|[BLEU: a Method for Automatic Evaluation of Machine Translation](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/028.pdf)|N/A:arXiv|
+|029|[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/029.pdf)|N/A:arXiv|
+|030|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/030.pdf)|:arXiv|
+|031|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/031.pdf)|:arXiv|
+|032|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/032.pdf)|:arXiv|
+|033|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/033.pdf)|:arXiv|
+|034|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/034.pdf)|:arXiv|
+|035|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/035.pdf)|:arXiv|
+|036|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/036.pdf)|:arXiv|
+|037|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/037.pdf)|:arXiv|
+|038|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/038.pdf)|:arXiv|
+|039|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/039.pdf)|:arXiv|
 
 ### Blockchain
 
