@@ -35,8 +35,8 @@
 |027|[Neural Machine Translation by Jointly Learning to Aliagn and Translate](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/027.pdf)|N/A:arXiv|
 |028|[BLEU: a Method for Automatic Evaluation of Machine Translation](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/028.pdf)|N/A:arXiv|
 |029|[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/029.pdf)|N/A:arXiv|
-|030|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/030.pdf)|:arXiv|
-|031|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/031.pdf)|:arXiv|
+|030|[SSD: Single Shot MultiBox Detector](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/030.pdf)|Object Detection:arXiv|
+|031|[Generative Adversarial Nets](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/031.pdf)|GAN:N/A|
 |032|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/032.pdf)|:arXiv|
 |033|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/033.pdf)|:arXiv|
 |034|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/034.pdf)|:arXiv|
