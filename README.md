@@ -4,6 +4,8 @@
 
 ## ML-DL
 
+> [https://ai.googleblog.com](https://ai.googleblog.com)
+
 | # | Title | Comment |
 |---|-------|---------|
 |001|[A Meta-Analysis of the Anomaly Detection Problem](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/001.pdf)|Anomaly Detection:arXiv|
@@ -37,8 +39,8 @@
 |029|[Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/029.pdf)|N/A:arXiv|
 |030|[SSD: Single Shot MultiBox Detector](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/030.pdf)|Object Detection:arXiv|
 |031|[Generative Adversarial Nets](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/031.pdf)|GAN:N/A|
-|032|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/032.pdf)|:arXiv|
-|033|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/033.pdf)|:arXiv|
+|032|[Attention is All You Need](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/032.pdf)|Attention(Transformer):arXiv|
+|033|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/033.pdf)|NLP:arXiv|
 |034|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/034.pdf)|:arXiv|
 |035|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/035.pdf)|:arXiv|
 |036|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/036.pdf)|:arXiv|
