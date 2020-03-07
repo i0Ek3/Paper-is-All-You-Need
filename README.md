@@ -41,9 +41,9 @@
 |031|[Generative Adversarial Nets](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/031.pdf)|GAN:N/A|
 |032|[Attention is All You Need](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/032.pdf)|Attention(Transformer):arXiv|
 |033|[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/033.pdf)|NLP:arXiv|
-|034|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/034.pdf)|:arXiv|
-|035|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/035.pdf)|:arXiv|
-|036|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/036.pdf)|:arXiv|
+|034|[Language Models are Unsupervised Multitask Learners](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/034.pdf)|GPT-2:N/A|
+|035|[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/035.pdf)|XLNet:arXiv|
+|036|[Latent Dirichlet Allocation](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/036.pdf)|LDA:N/A|
 |037|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/037.pdf)|:arXiv|
 |038|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/038.pdf)|:arXiv|
 |039|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/039.pdf)|:arXiv|
