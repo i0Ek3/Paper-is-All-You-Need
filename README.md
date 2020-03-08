@@ -44,9 +44,20 @@
 |034|[Language Models are Unsupervised Multitask Learners](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/034.pdf)|GPT-2:N/A|
 |035|[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/035.pdf)|XLNet:arXiv|
 |036|[Latent Dirichlet Allocation](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/036.pdf)|LDA:N/A|
-|037|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/037.pdf)|:arXiv|
-|038|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/038.pdf)|:arXiv|
-|039|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/039.pdf)|:arXiv|
+|037|[Improving Language Understanding by Generative Pre-Training](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/037.pdf)|NLP:arXiv|
+|038|[Deep contextualized word representations](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/038.pdf)|ELMo:arXiv|
+|039|[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/039.pdf)|Transformer-XL:arXiv|
+|040|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/040.pdf)|:arXiv|
+|041|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/041.pdf)|:arXiv|
+|042|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/042.pdf)|:arXiv|
+|043|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/043.pdf)|:arXiv|
+|044|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/044.pdf)|:arXiv|
+|045|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/045.pdf)|:arXiv|
+|046|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/046.pdf)|:arXiv|
+|047|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/047.pdf)|:arXiv|
+|048|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/048.pdf)|:arXiv|
+|049|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/049.pdf)|:arXiv|
+|050|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/050.pdf)|:arXiv|
 
 ### Blockchain
 
