@@ -18,7 +18,7 @@
 |008|[Understanding LSTM Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/008.pdf)|LSTM:N/A|
 |009|[ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/009.pdf)|Classification:N/A|
 |010|[Deep Residual Learning for Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/010.pdf)|ResNet:IEEE Xplore|
-|011|[Gradient-Based Learning Applied to Document Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/011.pdf)|Recognition:IEEE|
+|011|[Gradient-Based Learning Applied to Document Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/011.pdf)|LeNet/Recognition:IEEE|
 |012|[Very Deep Convolutional Networks for Large-scale Image Recognition](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/012.pdf)|N/A:ICLR|
 |013|[Going deeper with convolutions](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/013.pdf)|Inception:arXiv|
 |014|[You Only Look Once: Unified, Real-Time Object Detection](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/014.pdf)|Objection Detection:arXiv|
@@ -47,12 +47,12 @@
 |037|[Improving Language Understanding by Generative Pre-Training](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/037.pdf)|NLP:arXiv|
 |038|[Deep contextualized word representations](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/038.pdf)|ELMo:arXiv|
 |039|[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/039.pdf)|Transformer-XL:arXiv|
-|040|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/040.pdf)|:arXiv|
-|041|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/041.pdf)|:arXiv|
-|042|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/042.pdf)|:arXiv|
-|043|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/043.pdf)|:arXiv|
-|044|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/044.pdf)|:arXiv|
-|045|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/045.pdf)|:arXiv|
+|040|[Network In Network](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/040.pdf)|NiN:arXiv|
+|041|[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/041.pdf)|N/A:arXiv|
+|042|[Rethinking the Inception Architecture for Computer Vision](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/042.pdf)|Inception:arXiv|
+|043|[Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/043.pdf)|Inception:arXiv|
+|044|[Identity Mappings in Deep Residual Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/044.pdf)|N/A:arXiv|
+|045|[Densely Connected Convolutional Networks](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/045.pdf)|N/A:arXiv|
 |046|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/046.pdf)|:arXiv|
 |047|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/047.pdf)|:arXiv|
 |048|[](https://github.com/i0Ek3/YGP/blob/master/paper/ml-dl/048.pdf)|:arXiv|
