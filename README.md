@@ -61,7 +61,8 @@
 
 ### Blockchain
 
-> **If you want to know more about blockchain and it's concensus algorithms, please read 023, 031, 054, 065 first. Of course, you also can download 009.pdf to know it fully.**
+> If you want to know more about blockchain and it's concensus algorithms, please read 023, 031, 054, 065 first. Of course, you also can download 009.pdf to know it fully. Or watch the video [《区块链之新》](https://www.bilibili.com/bangumi/media/md28223422/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.2)。
+
 
 | # | ReadTime | Title | Belongs | Status |
 |---|----------|-------|---------|--------|
