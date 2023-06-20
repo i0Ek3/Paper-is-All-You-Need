@@ -1,8 +1,9 @@
 # Get Your Paper
 
-> You can download all of these paper from [here(6666)](https://www.aliyundrive.com/s/4xar1AgXYxd).
 
 ## Quantum
+
+> Before that, please read [Quantum Computation and Quantum Information 10th Anniversary Edition (Michael A. Nielsen & Isaac L. Chuang)](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) first.
 
 | #    | Title                                  |
 | ---- | -------------------------------------- |
