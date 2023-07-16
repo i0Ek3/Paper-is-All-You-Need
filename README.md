@@ -5,11 +5,17 @@
 
 > Before that, please read [Quantum Computation and Quantum Information 10th Anniversary Edition (Michael A. Nielsen & Isaac L. Chuang)](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) first.
 
-| #    | Title                                  |
-| ---- | -------------------------------------- |
-| 001  | Quantum computing for the very curious |
-|      |                                        |
-|      |                                        |
+| #    | Title                                                        |
+| ---- | ------------------------------------------------------------ |
+| 001  | Quantum computing for the very curious                       |
+| 002  | Exact entanglement cost of quantum states and channels under positive-partial-transpose-preserving operations |
+| 003  | Information recoverability of noisy quantum states           |
+| 004  | Phase transition in Random Circuit Sampling                  |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
+|      |                                                              |
 
 ## Cryptography
 
