@@ -27,12 +27,6 @@
 
 
 
-## General Overview
-
-![image-20240819095449497](/Users/cayman/Library/Application Support/typora-user-images/image-20240819095449497.png)
-
-
-
 ## Pre-Traning
 
 Language model pre-training involves four steps:
