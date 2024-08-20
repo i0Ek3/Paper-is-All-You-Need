@@ -1,4 +1,8 @@
-# Get Your Paper
+# Paper-is-All-You-Need
+
+## AI
+
+Locate to [EverydayPaper](./EverydayPaper).
 
 
 ## Quantum
@@ -11,11 +15,6 @@
 | 002  | Exact entanglement cost of quantum states and channels under positive-partial-transpose-preserving operations |
 | 003  | Information recoverability of noisy quantum states           |
 | 004  | Phase transition in Random Circuit Sampling                  |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
-|      |                                                              |
 
 ## Cryptography
 
@@ -26,7 +25,6 @@
 | 003  | Securing the Future Internet of Things with Post-Quantum Cryptography |
 | 004  | Resource Guide for Teaching Post-Quantum Cryptography        |
 | 005  | A Survey of Leakage-Resilient Cryptography                   |
-|      |                                                              |
 
 ## ML-DL
 
@@ -80,7 +78,7 @@
 |044|Identity Mappings in Deep Residual Networks|
 |045|Densely Connected Convolutional Networks|
 
-### Blockchain
+## Blockchain
 
 > If you want to know more about blockchain and it's concensus algorithms, please read 023, 031, 054, 065 first. Of course, you also can download 009 to know it fully. Or watch the video [《区块链之新》](https://www.bilibili.com/bangumi/media/md28223422/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.2).
 
@@ -93,21 +91,21 @@
 |004|On the Security and Performance of Proof of Work Blockchains |
 |005|比特币白皮书zh/比特币白皮书en |
 |006|[分布式一致性与共识算法](https://draveness.me/consensus) |
-|007|[区块链技术安全讨论](https://blockchain-sec.com/3/) |
+|007|~~[区块链技术安全讨论](https://blockchain-sec.com/3/)~~ |
 |008|中国区块链技术和应用发展白皮书2016 |
-|009|[区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/) |
+|009|~~[区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/)~~ |
 |010|基于Gossip协议的拜占庭共识算法 |
 |011|基于区块链的网络空间安全技术 |
 |012|PoW 共识算法中的博弈困境分析与优化 |
 |013|区块链技术发展现状与展望 |
-|014|[Transactions as Proof-of-Stake](http://www.wanglutech.com/LoadFiles/file_1483944101721\_[白皮书]Daniel%20Larimer-将交易作为权益证明[英文][PDF下载].pdf) |
+|014|~~[Transactions as Proof-of-Stake](http://www.wanglutech.com/LoadFiles/file_1483944101721\_[白皮书]Daniel%20Larimer-将交易作为权益证明[英文][PDF下载].pdf)~~ |
 |015|[In Search of an Understandable Consensus Algorithm](https://www.cnblogs.com/YaoDD/p/6172011.html) |
 |016|Consensus in Bitcoin: One system, many models |
 |017|基于DPOS的区块链共识方法和节点/区块链的分组共识方法及系统 |
 |018|一种改进的区块链共识机制的研究与实现 |
 |019|具有状态合法性验证的区块链一致性算法研究 |
 |020|一种应用于区块链的拜占庭容错共识方法 |
-|021|[一致性协议](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E4%B8%80%E8%87%B4%E6%80%A7%E5%8D%8F%E8%AE%AE.md) |
+|021|~~[一致性协议](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E4%B8%80%E8%87%B4%E6%80%A7%E5%8D%8F%E8%AE%AE.md)~~ |
 |022|志愿云环境下的拜占庭容错研究 |
 |023|区块链技术:架构及进展 |
 |024|一种区块链共识机制 |
@@ -155,7 +153,7 @@
 |066|Delegated Proof of Stake: Features & Tradeoffs |
 |067|DPOS Consensus Algorithm - The Missing White Paper |
 |068|基于投票机制的拜占庭容错共识算法 |
-|069|[DPoS 概述](https://dpos.club/posts/14) |
+|069|~~[DPoS 概述](https://dpos.club/posts/14)~~ |
 |070|区块链安全问题：研究现状与发展 |
 |071|[30 种共识算法完全列表](https://www.infoq.cn/article/consensuspedia-an-encyclopedia-of-29-consensus-algorithms)|
 |072|[Proof of Authority](https://blockonomi.com/proof-of-authority/)|
@@ -163,8 +161,5 @@
 
 ## Links
 
-- How to Read a Paper
-    - [video](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y) The Great Wall in here.
-    - [html](https://www.qbitai.com/2019/12/10311.html) By Srinivasan Keshav.
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
-- [The Morning Paper](https://blog.acolyer.org)
+- [paperswithcode](https://paperswithcode.com/)
