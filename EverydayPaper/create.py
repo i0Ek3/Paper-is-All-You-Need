@@ -11,7 +11,7 @@ if not os.path.exists(folder_path):
 else:
     print(f"Dir '{folder_path}' existed.")
 
-md_file_path = os.path.join(folder_path, f"{today}.md")
+md_file_path = os.path.join(folder_path, f"README.md")
 
 if not os.path.isfile(md_file_path):
     with open(md_file_path, 'w') as md_file:
