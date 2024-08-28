@@ -6,7 +6,7 @@
 
 [OpenAI Research](https://openai.com/research/) | [Anthropic Research](https://www.anthropic.com/research)
 
-[arXiv AI](https://arxiv.org/list/cs.AI/recent) | [arXiv ML](https://arxiv.org/list/cs.LG/recent) | [arXiv CV & PR](https://arxiv.org/list/cs.CV/recent)
+[arXiv AI](https://arxiv.org/list/cs.AI/recent) | [arXiv ML](https://arxiv.org/list/cs.LG/recent) | [arXiv CV & PR](https://arxiv.org/list/cs.CV/recent) | [arXiv-Sanity](https://arxiv-sanity-lite.com/)
 
 [paperswithcode](https://paperswithcode.com/) | [paperswelove](https://paperswelove.org/)
 
