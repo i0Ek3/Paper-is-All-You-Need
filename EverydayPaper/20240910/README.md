@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240910.
 
-## Overall
+## Overview
 
 In this paper, we introduce WavTokenizer, which offers several advantages over previous SOTA acoustic codec models in the audio domain:
 

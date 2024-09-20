@@ -6,7 +6,7 @@
 
 There is still a lack of exploration on how to build low-latency and high-quality speech interaction models based on open-source LLMs.
 
-## Overall
+## Overview
 
 We propose LLaMA-Omni, a novel model architecture designed for low-latency and high-quality speech interaction with LLMs. LLaMA-Omni integrates a pretrained speech encoder, a speech adaptor, an LLM, and a streaming speech decoder.
 

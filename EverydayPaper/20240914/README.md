@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240914.
 
-## Overall
+## Overview
 
 We introduce a two-stage methodology that integrates strategic knowledge, guiding the LLM to generate highquality CoT paths by first developing a problem-solving strategy and then producing the final answer.
 

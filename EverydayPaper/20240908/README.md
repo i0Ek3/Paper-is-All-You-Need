@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240908.
 
-## Overall
+## Overview
 
 This paper explores a simple extension of diffusion-based rectified flow Transformers for text-to-music generation, termed as FluxMusic. FluxMusic utilizes rectified flow transformers to predict mel-spectra iteratively within a latent VAE space.
 

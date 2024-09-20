@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240909.
 
-## Overall
+## Overview
 
 We propose a novel method that takes a single image of any object as input and generates a full 360-degree 3D textured mesh in a single feed-forward pass.
 

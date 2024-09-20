@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240918.
 
-## Overall
+## Overview
 
 We propose Pure and Lightning ID customization (PuLID), a novel tuning-free ID customization method for text-to-image generation.
 

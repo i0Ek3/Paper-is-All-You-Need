@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240913.
 
-## Overall
+## Overview
 
 We present PaperQA, a RAG agent for answering questions over the scientific literature.
 

@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240912.
 
-## Overall
+## Overview
 
 The existing retrieval methods are constrained inherently, as they can only perform relevance matching between explicitly stated queries and well-formed knowledge, but unable to handle tasks involving ambiguous information needs or unstructured knowledge.
 

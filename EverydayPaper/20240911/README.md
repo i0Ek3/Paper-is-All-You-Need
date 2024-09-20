@@ -2,7 +2,7 @@
 
 > This markdown file created on 20240911.
 
-## Overall
+## Overview
 
 We propose a novel MIL aggregation method based on diverse global representation (DGR-MIL), by modeling diversity among instances through a set of global vectors that serve as a summary of all instances.
 
