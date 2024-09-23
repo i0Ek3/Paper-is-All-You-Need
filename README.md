@@ -14,6 +14,8 @@
 
 [mli paper-reading](https://github.com/mli/paper-reading) | [ML Weekly](https://github.com/dair-ai/ML-Papers-of-the-Week) | [CVCR 2024](https://github.com/amusi/CVPR2024-Papers-with-Code)
 
+[The Economist(archive)](https://archive.is/)
+
 [txyz.ai](https://app.txyz.ai/)
 
 ## How to Read a Paper
