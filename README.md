@@ -1,4 +1,4 @@
-# Paper-is-All-You-Need
+# X-is-All-You-Need
 
 ## Resources
 
